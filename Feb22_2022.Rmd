@@ -1,0 +1,20 @@
+---
+title: "2/22/2022"
+author: "Sam Kirschner"
+date: "2/22/2022"
+output: html_document
+---
+
+
+## Day One. Intro to Daily DS Notes
+
+Alright, so I don't have much to in the way of constructive action, but this post will be to set up the concept and test the github. The idea will be to record my progress with projects I am working on and then take notes on anything I am reading. This will be a kind of guided journal to improving my data science skills and holding myself accountable for DS projects. 
+
+One great link I want keep in mind. It does a great job intuitively visualizing many of the basic ideas I am required to explain at work on a regular basis.
+
+https://seeing-theory.brown.edu/
+
+Today's accomplishments:
+1) More or less finalized the first draft of my KFL APP. Deploying will be quite difficult given where I am accessing some of my data
+
+The first book I want to use this system to take notes for is Statistical Rethinking. More on that tomorrow. 
